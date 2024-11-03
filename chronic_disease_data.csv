@@ -1,0 +1,11 @@
+age,gender,height,weight,blood_pressure,cholesterol,smoking_status,activity_level,disease_label
+45,male,155,65,high,normal,yes,2,Diabetes
+56,female ,175,76,high,high,yes,1,Diabetes
+78,male,165,54,high,high,yes,3,none
+13,male,155,78,normal,high,no,1,Heart Disease
+38,female ,170,56,high,normal,no,2,none
+23,female ,140,48,normal,normal,yes,3,none
+67,female ,160,55,normal,high,yes,2,Diabetes
+73,male ,156,79,high,high,yes,1,Heart Disease
+65,male ,147,80,normal,normal,no,3,Heart Disease
+50,female ,167,89,normal,high,yes,3,Diabetes
